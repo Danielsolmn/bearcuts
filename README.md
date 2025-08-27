@@ -3,6 +3,20 @@
 ## Overview
 Bear Cuts is a comprehensive iOS application designed specifically for Washington University students, providing a complete barbershop management experience. Built with Swift and UIKit, the app combines modern design principles with practical functionality to create an engaging user experience.
 
+## 📱 Screenshots
+
+<p float="left">
+  <img src="Homescreen.png" width="200" />
+  <img src="Gallery.png" width="200" />
+  <img src="Gallery2.png" width="200" />
+</p>
+
+<p float="left">
+  <img src="Reminder .png" width="200" />
+  <img src="Location and contact info.png" width="200" />
+  <img src="about us page.png" width="200" />
+</p>
+
 ## Features
 
 ### 🐻 Core Functionality
